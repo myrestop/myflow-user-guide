@@ -4,7 +4,7 @@
 
 The example usage in the plugin description page, `[]` means an optional parameter, `|` means or,  `{}` means a parameter need user input, and all the cases are based on the default keyword.
 
-In searching action, `?` means math one any character, `*` means match any number of characters.
+In searching action, `?` means match one any character, `*` means match any number of characters.
 
 ### Hotkey Tips
 
