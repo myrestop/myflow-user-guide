@@ -6,11 +6,11 @@ In this documentation, you will learn our general rules and MyFlow's tips.
 
 MyFlow is a powerful efficiency tool that can be combined with many plugins, and it running based on keywords, a keyword mean a feature.
 
-You can alse pin a keyword to the tab(if keyword support), doing this you don't need always input the keyword to trigger the feature.
+You can also pin a keyword to the tab(if keyword support), doing this you don't need always input the keyword to trigger the feature.
 
 ### General Constraints
 
-The example usage in the plugin description page, you may see some special character, like `[]|{}`, `[]` means an optional parameter, `|` means or,  `{}` means a parameter need user input. And all the usage cases are based on the default keyword.
+The example usage in the plugin description page, you may see some special characters, like `[]|{}`, `[]` means an optional parameter, `|` means or,  `{}` means a parameter need user input. And all the usage cases are based on the default keyword.
 
 > example: `timer [{name}] {date}` means name is a optional parameter, but you must input a date parameter to start a timer.
 
@@ -22,7 +22,7 @@ In searching action, `?` means match one any character, `*` means match any numb
 
 In result list, press `Tab` to get the selected result suggestion text.
 
-##### Switch Pinned Keyword
+#### Switch Pinned Keyword
 
 Use `Alt+LEFT` switch to the previous pinned keyword, `Alt+RIGHT` switch to the next pinned keyword.
 
@@ -32,4 +32,4 @@ And you can also use `Ctrl+{number}` switch to the specified indexed pinned keyw
 
 ### Other Tips
 
-- At action input field, you can drag text or file(ensure the action window is pinned)
+- At action input field, you can input by dragging text or file(ensure the action window is pinned)
