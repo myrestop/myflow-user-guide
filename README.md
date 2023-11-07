@@ -44,7 +44,9 @@ To exit the focused mode, you can type `exit` (you can customize this text at ge
 
 ### Multi Language Support
 
-We require plugins must support english language, so english is always available. And our official plugins also contains simplified chinese yet, if you are a traditional chinese user, you can install our [Chinese Processor](https://myrest.top/myflow/plugin?id=top.myrest.myflow.chinese), it can convert simplified chinese to traditional or traditional to simplified.
+Our official app and plugins will both support english and simplified chinese languages, if you are a traditional chinese user, you can install our [Chinese Processor](https://myrest.top/myflow/plugin?id=top.myrest.myflow.chinese), it can convert simplified chinese to traditional or traditional to simplified.
+
+> We will strongly suggest plugin developer to support english language.
 
 #### More Language Request
 
