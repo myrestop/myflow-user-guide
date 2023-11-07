@@ -44,7 +44,7 @@ RunFlow是一个强大的效率工具，可以结合许多插件，并且RunFlow
 
 ### 多语言支持
 
-我官方们的应用程序和插件将支持英语和简体中文两种语言，如果您是繁体中文用户，您可以安装我们的[中文处理器](https://myrest.top/myflow/plugin?id=top.myrest.myflow.chinese)，它可以将简体中文转换为繁体或将繁体转换为简体。
+我们官方的应用程序和插件将支持英语和简体中文两种语言，如果您是繁体中文用户，您可以安装我们的[中文处理器](https://myrest.top/myflow/plugin?id=top.myrest.myflow.chinese)，它可以将简体中文转换为繁体或将繁体转换为简体。
 
 > 我们会强烈建议插件开发者支持英语。
 
