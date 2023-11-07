@@ -1,6 +1,6 @@
 # Welcome To Our RunFlow User Guide
 
-In this documentation, you will learn our RunFlow's general rules and tips.
+In this documentation, you will learn our RunFlow's some general rules and tips.
 
 ### Introduction
 
@@ -12,7 +12,7 @@ You can also pin a keyword to the tab (if keyword support), doing this you don't
 
 ### General Constraints
 
-The example usage in the plugin description page, you may see some special characters, like `[]|{}`, `[]` means an optional parameter, `|` means or,  `{}` means a parameter need user input. And all the usage cases are based on the default keyword.
+The example usage in the plugin description page, you may see some special characters, like `[]|{}`, `[]` means an optional parameter, `|` means or,  `{}` means a parameter need user input. And all the usage cases are based on the default keyword (because we allow you to customize keywords).
 
 > example: `timer [{name}] {date}` means name is a optional parameter, but you must input a date parameter to start a timer.
 
@@ -22,7 +22,7 @@ In searching action, `?` means match one any character, `*` means match any numb
 
 `Alt` is a magic hotkey, you can press it to refresh the result (if result support), or open the result context menu (if result has multi operations).
 
-In result list, press `Tab` to get the selected result suggestion text.
+In result list, you can press `Tab` to get the selected result suggestion text.
 
 #### Switch Pinned Keyword
 
@@ -48,4 +48,6 @@ We require plugins must support english language, so english is always available
 
 #### More Language Request
 
-If you request more languages support, you can go to the [plugin store](https://myrest.top/store/myflow/plugin) to find a plugin which support translate language.
+If you request more languages support, you can go to the [plugin store](https://myrest.top/store/myflow/plugin) to find a plugin which suitable for you and support translate language.
+
+> If your language is arranged from right to left, our app ui may not support it very well.
