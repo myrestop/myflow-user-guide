@@ -10,6 +10,8 @@ You can also pin a keyword to the tab (if keyword support), doing this you don't
 
 > the keyword can be at the front, or the end (but need a whitespace to separate).
 
+> if you haven't installed it yet, you can download and install it from [here](https://myrest.top/myflow).
+
 ## General Constraints
 
 The example usage in the plugin description page, you may see some special characters, like `[]|{}`, `[]` means an optional parameter, `|` means or,  `{}` means a parameter need user input. And all the usage cases are based on the default keyword (because we allow you to customize keywords).
