@@ -8,15 +8,15 @@ RunFlow is a powerful efficiency tool that can be combined with many plugins, an
 
 You can also pin a keyword to the tab (if keyword support), doing this you don't need always input the keyword to trigger the feature.
 
-> the keyword can be at the front, or the end (but need a whitespace to separate).
+> The keyword can be at the front, or the post (but need a whitespace to separate).
 
-> if you haven't installed it yet, you can download and install it from [here](https://myrest.top/myflow).
+> If you haven't installed it yet, you can download and install it from [here](https://myrest.top/myflow).
 
 ## General Constraints
 
 The example usage in the plugin description page, you may see some special characters, like `[]|{}`, `[]` means an optional parameter, `|` means or,  `{}` means a parameter need user input. And all the usage cases are based on the default keyword (because we allow you to customize keywords).
 
-> example: `timer [{name}] {date}` means name is a optional parameter, but you must input a date parameter to start a timer.
+> Example: `timer [{name}] {date}` means name is a optional parameter, but you must input a date parameter to start a timer.
 
 In searching action, `?` means match one any character, `*` means match any number of characters.
 
