@@ -8,7 +8,7 @@ RunFlow is a powerful efficiency tool that can be combined with many plugins, an
 
 You can also pin a keyword to the tab (if keyword support), doing this you don't need always input the keyword to trigger the feature.
 
-> The keyword can be at the front, or the post (but need a whitespace to separate).
+> The keyword can be at the front, or the post (but need a whitespace to separate), and `*` is a special keyword.
 
 > If you haven't installed it yet, you can download and install it from [here](https://myrest.top/myflow).
 
