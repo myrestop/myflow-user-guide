@@ -38,6 +38,12 @@ And you can also use `Ctrl+{number}` switch to the specified indexed pinned keyw
 
 - At action input field, you can input by dragging text or file (ensure the action window is pinned)
 
+## Sync Data
+
+Go to **Settings** -> **Data Sync**, enable the blew available data sync service(s).
+
+**Local sync service:** is a builtin simple data sync service, we'll write the **encrypted** data change log to your chose directory, and read log also from this directory, so to synchronize data across platforms you also should add the directory to third-party cloud service, like Onedrive, Google Drive, iCloud, Dropbox or any other cloud service providers.
+
 ## Focused Mode
 
 This feature need keyword support, you will always work under the function of this keyword without other keywords disturbed while you enter the focused keyword.
