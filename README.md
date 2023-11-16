@@ -36,7 +36,7 @@ And you can also use `Ctrl+{number}` switch to the specified indexed pinned keyw
 
 ## Other Tips
 
-- At action input field, you can input by dragging text or file (ensure the action window is pinned)
+- At action input field, you can input by dragging text or file (ensure the action window is pinned).
 
 ## Sync Data
 
@@ -52,7 +52,7 @@ To exit the focused mode, you can type `exit` (you can customize this text at ge
 
 ## Multi Language Support
 
-Our official app and plugins will both support english and simplified chinese languages, if you are a traditional chinese user, you can install our [Chinese Processor](https://myrest.top/myflow/plugin?id=top.myrest.myflow.chinese), it can convert simplified chinese to traditional or traditional to simplified.
+Our official app and plugins will support both english and simplified chinese languages, if you are a traditional chinese user, you can install our [Chinese Processor](https://myrest.top/myflow/plugin?id=top.myrest.myflow.chinese), it can convert simplified chinese to traditional or traditional to simplified.
 
 > We will strongly suggest plugin developer to support english language.
 
