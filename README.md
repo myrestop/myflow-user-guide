@@ -10,7 +10,7 @@ You can also pin a keyword to the tab (if keyword support), doing this you don't
 
 > The keyword can be at the front, or the post (but need a whitespace to separate). In RunFlow, we have a feature that is `special keyword`, when a keyword starts with symbol not letter or digit, we mark it as a `special keyword`, and if the `special keyword` worked at the post case, you don't need a whitespace to separate they.
 
-> The keyword `*` mean this function don't need a keyword to trigger, it will always trigger whatever the user input.
+> The keyword `*` mean this function don't need a keyword to trigger, it will always trigger whatever you input.
 
 > If you haven't installed it yet, you can download and install it from [here](https://myrest.top/myflow).
 
@@ -32,7 +32,7 @@ In result list, you can press `Tab` to get the selected result suggestion text.
 
 Use `Alt+LEFT` switch to the previous pinned keyword, `Alt+RIGHT` switch to the next pinned keyword.
 
-And you can also use `Ctrl+{number}` switch to the specified indexed pinned keyword, like `Ctrl+0` switch to the first, `Ctrl+1` switch to the second, `Ctrl+9` switch to the last pinned keyword. And in here, `Alt` has another wonderful usage, press with `Alt`, whether the action window is visible or not, it always show, for example: `Ctrl+Alt+2`, app will show the action window and switch to the third pinned keyword even if it is hidden.
+And you can also use `Ctrl+{number}` switch to the specified indexed pinned keyword, like `Ctrl+0` switch to the first, `Ctrl+1` switch to the second, `Ctrl+9` switch to the last pinned keyword. And in here, `Alt` has another wonderful usage, press with `Alt`, whether the action window is visible or not, it always shows, for example: `Ctrl+Alt+2`, app will show the action window and switch to the third pinned keyword even if it is hidden.
 
 > In macOS, the `Ctrl` is instead by `Command` key.
 
@@ -41,6 +41,8 @@ And you can also use `Ctrl+{number}` switch to the specified indexed pinned keyw
 - At action input field, you can input by dragging text or file (ensure the action window is pinned).
 
 - Input multiple line content, you can press `Ctrl+Enter` or `Shift+Enter` to break content to a new line.
+
+- To toggle action window visible, you can press `Windows/Meta+Space` on Windows and Linux, or `Command+Space` on macOS.
 
 ## Sync Data
 
