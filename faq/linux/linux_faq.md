@@ -10,7 +10,7 @@ then run command `sysctl -p`
 
 >[more info](https://stackoverflow.com/questions/47075661/error-user-limit-of-inotify-watches-reached-extreact-build)
 
-#### Question: Take the screeshot image is black
+#### Question: Take the screenshot image is black
 
 editing the file `/etc/gdm3/custom.conf`, make sure the below line is uncomment
 

@@ -4,11 +4,13 @@ In this documentation, you will learn our RunFlow's some general rules and tips.
 
 ## Introduction
 
-RunFlow is a powerful efficiency tool that can be combined with many plugins, and it's running based on keywords, a keyword mean a feature.
+RunFlow is a powerful efficiency tool that can be combined with many plugins, and it's running based on keywords, a keyword mean a function.
 
 You can also pin a keyword to the tab (if keyword support), doing this you don't need always input the keyword to trigger the feature.
 
-> The keyword can be at the front, or the post (but need a whitespace to separate), and `*` is a special keyword.
+> The keyword can be at the front, or the post (but need a whitespace to separate). In RunFlow, we have a feature that is `special keyword`, when a keyword starts with symbol not letter or digit, we mark it as a `special keyword`, and if the `special keyword` worked at the post case, you don't need a whitespace to separate they.
+
+> The keyword `*` mean this function don't need a keyword to trigger, it will always trigger whatever the user input.
 
 > If you haven't installed it yet, you can download and install it from [here](https://myrest.top/myflow).
 
@@ -37,6 +39,8 @@ And you can also use `Ctrl+{number}` switch to the specified indexed pinned keyw
 ## Other Tips
 
 - At action input field, you can input by dragging text or file (ensure the action window is pinned).
+
+- Input multiple line content, you can press `Ctrl+Enter` or `Shift+Enter` to break content to a new line.
 
 ## Sync Data
 
