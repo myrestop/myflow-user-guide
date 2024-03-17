@@ -44,6 +44,12 @@ And you can also use `Ctrl+{number}` switch to the specified indexed pinned keyw
 
 - To toggle action window visible, you can press `Windows/Meta+Space` on Windows and Linux, or `Command+Space` on macOS.
 
+- You can customize all the hot events, includes hotkeys, hot corners and CRON expression etc.
+
+- You can import data and export data (before import data, must ensure the database is empty).
+
+- You can let the pinned tab to run in a separate window.
+
 ## Sync Data
 
 Go to **Settings** -> **Data Sync**, enable the blew available data sync service(s).
@@ -58,12 +64,12 @@ To exit the focused mode, you can type `exit` (you can customize this text at ge
 
 ## Multi Language Support
 
-Our official app and plugins will support both english and simplified chinese languages, if you are a traditional chinese user, you can install our [Chinese Processor](https://myrest.top/myflow/plugin?id=top.myrest.myflow.chinese), it can convert simplified chinese to traditional or traditional to simplified.
+Our official app and plugins will support both english and simplified chinese languages, if you are a traditional chinese user, you can install our [Chinese Processor](https://myrest.top/store/plugin?id=top.myrest.myflow.chinese), it can convert simplified chinese to traditional or traditional to simplified.
 
 > We will strongly suggest plugin developer to support english language.
 
 ### More Language Request
 
-If you request more languages support, you can go to the [plugin store](https://myrest.top/store/myflow/plugin) to find a plugin which suitable for you and support translate language.
+If you request more languages support, you can go to the [plugin store](https://myrest.top/store/plugin) to find a plugin which suitable for you and support translate language.
 
 > If your language is arranged from right to left, our app ui may not support it very well.

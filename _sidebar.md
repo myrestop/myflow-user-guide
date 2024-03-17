@@ -8,3 +8,4 @@
 - [**Focused Mode**](README.md#focused-mode "RunFlow User Guide")
 - [Multi Language Support](README.md#multi-language-support "RunFlow User Guide")
   - [More Language Request](README.md#more-language-request "RunFlow User Guide")
+- [QLExpress Advanced](qe_advanced.md#qlexpress-advanced "RunFlow User Guide")

@@ -8,3 +8,4 @@
 - [**专注模式**](README.md#专注模式 "RunFlow用户手册")
 - [多语言支持](README.md#多语言支持 "RunFlow用户手册")
     - [请求更多语言](README.md#请求更多语言 "RunFlow用户手册")
+- [QLExpress高级应用](qe_advanced.md#qlexpress-advanced "RunFlow用户手册")
