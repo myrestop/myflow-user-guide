@@ -73,3 +73,16 @@ Our official app and plugins will support both english and simplified chinese la
 If you request more languages support, you can go to the [plugin store](https://myrest.top/store/plugin) to find a plugin which suitable for you and support translate language.
 
 > If your language is arranged from right to left, our app ui may not support it very well.
+
+### Scheduled Tasks
+
+In the settings page of hot events, we can use Cron expressions to set scheduled tasks, such as regularly cleaning the computer recycle bin, and recreating file indexes, etc.
+
+Here is a brief explanation of the cron expression:
+
+| second(0-59) | minute(0-59) | hour(0-23) | day-of-month(1-31) | month(1-12) | week(0-7, both 0 and 7 are sunday) | explanation                    |
+|--------------|--------------|------------|--------------------|-------------|------------------------------------|--------------------------------|
+| 0            | 0            | 12         | *                  | *           | *                                  | executing at 12:00 every day   |
+| 0            | 0            | 12         | *                  | *           | 1                                  | executing at 12:00 every month |
+
+> [Learn more information about cron](https://en.wikipedia.org/wiki/Cron).
