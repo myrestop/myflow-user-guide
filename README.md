@@ -24,9 +24,11 @@ In searching action, `?` means match one any character, `*` means match any numb
 
 ## Hotkey Tips
 
-`Alt` is a magic hotkey, you can press it to refresh the result (if result support), or open the result context menu (if result has multi operations).
+- press `Alt` to open the result context menu (if result has multiple operations)
 
-In result list, you can press `Tab` to get the selected result suggestion text.
+- in result list, you can press `Tab` to get the selected result suggestion text.
+
+- for refreshable results, press the arrow `Left` to go back to the previous one, and the arrow `Right` to go forward to the next one
 
 ### Switch Pinned Keyword
 
